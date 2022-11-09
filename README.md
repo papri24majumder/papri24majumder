@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Papri Majumder
 - 👀 I’m interested in Web Development and Python Development
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on web development or python project 
 - 📫 To reach me send an email to majumderpapri2411@mail.com
 
